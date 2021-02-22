@@ -1,0 +1,34 @@
+div.cor-primaria:hover{
+    background-color: blue;
+    padding: auto;
+    border: 1px solid
+    
+}
+
+div.cor-secundaria:hover{
+    background-color: rgba(0, 0, 255, 0.658);
+    padding: auto;
+    border: 1px solid
+    
+}
+
+div.cor-complementar:hover{
+    background-color: rgba(0, 0, 255, 0.342);
+    padding: auto;
+    border: 1px solid;
+}
+
+
+div.cor-escura:hover{
+    background-color: rgba(0, 0, 56, 0.349);
+    padding: auto;
+    border: 1px solid;
+}
+
+
+div.cor-clara:hover{
+    background-color: rgba(0, 0, 255, 0.342);
+    padding: auto;
+    border: 1px solid;
+}
+
