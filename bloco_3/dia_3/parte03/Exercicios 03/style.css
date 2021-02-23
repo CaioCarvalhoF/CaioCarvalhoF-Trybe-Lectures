@@ -1,0 +1,20 @@
+h1,p {
+    text-align: center;
+}
+
+li:hover {
+background-color:goldenrod;
+
+}
+
+li:active {
+    color: #ffff;
+}
+
+ul,ol {
+    list-style: none;
+
+}
+
+
+

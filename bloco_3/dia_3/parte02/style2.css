@@ -1,0 +1,47 @@
+
+
+.super-mario {
+    position:absolute;
+    margin-top: 200px;
+    width: 100px;
+}
+
+
+.goomba {
+    position:absolute;
+    margin-top: 350px;
+    width: 100px;
+   
+   
+}
+
+.baloon {
+    position:absolute;
+    margin-left:280px;
+    margin-top: 210px;
+    width: 150px;
+    z-index: 1;
+}
+
+.bowser {
+    position:absolute;
+    margin-left:400px;
+    margin-top: 210px;
+    width: 200px;
+
+}
+
+.word {
+
+position:absolute;
+margin-left:320px;
+margin-top: 230px;
+width: 100px;
+z-index: 2;
+
+}
+
+
+.background {
+background-image: url(backgroundmario.jpg)
+}
