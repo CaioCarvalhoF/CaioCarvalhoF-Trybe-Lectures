@@ -48,3 +48,17 @@ li:hover {
    
 }
 
+.navbar {
+    background-color: rgb(10, 10, 10);
+    color: white;
+    margin: top 1px;
+    padding: 15px 10px;
+    border: 1px solid
+    
+    
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
