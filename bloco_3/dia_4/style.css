@@ -1,0 +1,50 @@
+* {
+    margin-left: 10px;
+}
+ 
+
+body {
+    background-image: url(https://image.freepik.com/vetores-gratis/mar-debaixo-d-agua-fundo-do-oceano-com-algas-cena-marinha_53562-8210.jpg);
+    background-position: cover;
+
+   
+}
+
+h2,p {
+    font-family:cursive;
+    font-size: 15px;
+    font-weight: 300;
+}
+
+h1 {
+    
+    padding: 20px 20px;
+    margin-bottom: 50px;
+    font-family:cursive;
+    font-size: 20px;
+    font-weight: 300;
+
+}
+
+
+
+
+li:hover {
+    background-color: white;
+    padding: auto;
+    background-size: 1px;
+    margin: 5px;
+    display: inline;
+    border-bottom: 1px solid
+    
+}
+
+.camarao-image {
+    border : 1px solid rgb(231, 5, 5); 
+    background-color: rgba(10, 10, 10, 0.651); 
+    padding: 5px 5px;
+    width: 350px; 
+    height: 200px
+   
+}
+
