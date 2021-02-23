@@ -11,9 +11,12 @@ body {
 }
 
 h2,p {
-    font-family:cursive;
+    color: rgb(0, 0, 0);
+    font-family:cursive, serif;
     font-size: 15px;
-    font-weight: 300;
+    font-weight: 400;
+    text-align: justify;
+    border: 1px;
 }
 
 h1 {
@@ -66,3 +69,14 @@ li:hover {
 
 }
 
+.about {
+    text-align: justify;
+    border: solid;
+}
+
+table, th, td {
+    border: 5px solid black;
+    width: 40%;
+    color: rgb(0, 0, 0);
+    background-color: rgb(8, 25, 177);
+  }
