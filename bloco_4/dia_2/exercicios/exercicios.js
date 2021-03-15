@@ -114,7 +114,7 @@ console.log(numbers);
 
 
 
-/* serve para dividir todos os numeros do array*/
+
 
 for (let i = 0; i < numbers.length; i += 1) {
     console.log(numbers[i] / 2);
