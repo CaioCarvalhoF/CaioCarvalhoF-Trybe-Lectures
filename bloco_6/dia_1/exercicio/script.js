@@ -10,7 +10,7 @@ function createStateOptions() {
   }
 }
 
-function validateData(data) {
+function validateData(data) {+
   if (data.indexOf('/') === 2 || data.indexOf('/') === 5) {
     const day = data.substr(0, 2);
     const month = data.substr(3, 2);
