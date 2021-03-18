@@ -1,0 +1,9 @@
+*{
+    margin-left: 1%; 
+}
+#titulo {
+    font-family: monospace;
+}
+body {
+    background-color:rgb(0, 238, 255)
+}
