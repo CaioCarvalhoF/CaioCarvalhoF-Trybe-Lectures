@@ -1,8 +1,11 @@
 body {
-
+    box-sizing:auto;
+    font-size: 30px;
+    background-color: skyblue;
+    text-align: justify;
 }
 h1 {
-
+font-size: 35px;
 }
 h2 {
 
@@ -10,8 +13,21 @@ h2 {
 
 img {
     max-width: 100%;
+    border-radius: 0 25%;
+    border: 2px solid black;
 }
 
 figure {
-    margin: 0;
+    margin: 10%;
+    padding: 15px 0;
 }
+
+@media screen and (min-width: 800px) {
+    body {
+
+      font-size:x-large;
+      color:white;
+      padding: 50px;
+      background: rgb(255, 0, 0);
+    }
+  }
