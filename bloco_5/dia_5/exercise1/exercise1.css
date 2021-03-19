@@ -6,9 +6,11 @@ body {
 }
 h1 {
 font-size: 35px;
+text-decoration: underline;
 }
 h2 {
-
+font-weight: 100;
+text-decoration: underline;
 }
 
 img {
@@ -29,5 +31,9 @@ figure {
       color:white;
       padding: 50px;
       background: rgb(255, 0, 0);
+    }
+    .legend {
+        margin: 40px;
+        font-size:35px; 
     }
   }
